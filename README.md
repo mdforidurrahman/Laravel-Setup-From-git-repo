@@ -12,9 +12,6 @@ cd repository
 Laravel uses Composer to manage dependencies. Run the following command to install them:
 composer install
 
-
-
-
 4. Set Up the Environment File
 Create a .env file by copying .env.example:
 cp .env.example .env
@@ -32,9 +29,6 @@ DB_PASSWORD=your_database_password
 7. Run Migrations
 Run the migrations to set up the database schema:
 php artisan migrate
-
-
-
 
 8. Install Node.js Dependencies (Optional)
 If the project uses frontend assets like Vue.js or React, you may need to install Node.js dependencies:
