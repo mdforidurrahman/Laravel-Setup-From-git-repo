@@ -1,27 +1,3 @@
-Site
-------------------------------------------------------
-IP Address: 145.223.20.116
-Domain Name: https://designumo.com
-Site User: designumo
-Password: oS97CzhJxhXUJgK1JX7o
-
-Database
-------------------------------------------------------
-Host: 127.0.0.1
-Port: 3306
-Database Name: designumo
-Database User Name: designumo
-Database User Password: 9u9TkCoNYRAIAcsOOkHG
-
-WordPress
-------------------------------------------------------
-Admin E-Mail: admin@designumo.com
-Admin User Name: admin
-Admin Password: kgePTnkraGLx03g9JbdH
-Admin Url: https://designumo.com/wp-admin/
-
-
-
 To install a Laravel project from a Git repository, follow these steps:
 
 1. Clone the Repository
