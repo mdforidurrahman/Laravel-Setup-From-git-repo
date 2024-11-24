@@ -8,12 +8,12 @@ To install a Laravel project from a Git repository, follow these steps:
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=your_database_name
-    DB_USERNAME=your_database_user
-    DB_PASSWORD=your_database_password
+    DB_DATABASE="demo" /  your_database_name
+    DB_USERNAME=root /    your_database_user
+    DB_PASSWORD=""   /    your_database_password
 6. php artisan key:generate
 7. php artisan migrate
-8. php artisan migrate --seed
+8. php artisan migrate --seed / php artisan migrate:fresh --seed
 9. npm install
 10. npm run dev
 11. php artisan serve
